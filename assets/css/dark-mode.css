@@ -1,0 +1,50 @@
+body.dark-mode {
+  background: #181a1b;
+  color: #e8eaed;
+}
+
+.dark-mode .card,
+.card.dark-mode {
+  background: #23272b;
+  color: #e8eaed;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  border: none;
+}
+
+.dark-mode .btn,
+.btn.dark-mode {
+  background: #333b41;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  transition: background 0.2s;
+}
+.dark-mode .btn:hover,
+.btn.dark-mode:hover {
+  background: #444c54;
+}
+
+.dark-mode input,
+.dark-mode textarea,
+.dark-mode select {
+  background: #23272b;
+  color: #e8eaed;
+  border: 1px solid #444c54;
+}
+
+.dark-mode a {
+  color: #8ab4f8;
+}
+
+.dark-mode hr {
+  border-color: #333b41;
+}
+
+.dark-mode .navbar,
+.navbar.dark-mode {
+  background: #23272b;
+  color: #e8eaed;
+}
+
+/* Add more as needed for your UI */ 
