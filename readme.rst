@@ -1,3 +1,5 @@
+Super admin , Admin , User Functionality With Separate Dashboards ...Check Routes for More Details..
+
 ###################
 What is CodeIgniter
 ###################
